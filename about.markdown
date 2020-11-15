@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi There!  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Anurag and I am a Developer Support Escalation Engineer at Microsoft, which means that I help developers using Microsoft technologies and platform to write better code and debug it efficiently and effectively, and learn A LOT on daily basis.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I mainly work with .NET and Data - for now, but I feel that the journey has just begun.
 
+This blog is going to be mainly dedicated to share the learnings that I gain as the time passes, working with .NET, Data and other stuff. I used to use OneNote (an awesome product to use as a note keeper), but then I felt to share some of the learnings with everyone :-). Like the blog title says, this is to "Learn together & achieve more". And the journey continues...
 
-[jekyll-organization]: https://github.com/jekyll
+**Contents are my own and provided as is.**  
+
+Thank you,  
+Anurag
