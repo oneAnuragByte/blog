@@ -1,3 +1,3 @@
 # blog
-Author's play ground to impart knowledge and help the community. 
+Author's play ground to learn and share knowledge.
 This should be fun.
