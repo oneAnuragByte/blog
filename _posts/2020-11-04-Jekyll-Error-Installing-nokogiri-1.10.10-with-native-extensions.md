@@ -83,6 +83,6 @@ Then run the following as the demand was to install this specific version:
 
     gem install nokogiri -v '1.10.10'
 
-After this the installation/configuration went smoothly.
+After this, the installation/configuration went smoothly.
 
-Happy blogging...
+Happy learning and experimenting...
