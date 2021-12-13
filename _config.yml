@@ -21,7 +21,7 @@
 title: Learn together, achieve more!
 email: sendmailto.anuragsingh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  .NET, Data, Visual Studio, VS Code and everything else.
+  Azure, .NET, Data, Visual Studio, VS Code and everything else.
   
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://oneanuragbyte.github.io" # the base hostname & protocol for your site, e.g. http://example.com
